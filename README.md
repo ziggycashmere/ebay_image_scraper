@@ -5,4 +5,4 @@ This program can be used in two ways. A link to a single listing can be given to
 The GUI release is self-explanatory.
 
 To use the console release (ebaydl) the usage is
-  <b> python ebay.dl (url or txt) (download directory) </b>
+  <b> python ebaydl.py (url or txt) (download directory) </b>
