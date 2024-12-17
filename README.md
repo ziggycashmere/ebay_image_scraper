@@ -2,7 +2,7 @@ The eBay Image Downloader / Scraper is a program for downloading all of the imag
 
 This program can be used in two ways. A link to a single listing can be given to download the images only from that listing or a text file with a single link on each line can be given so each listing contained will be scraped.
 
-The GUI release is self-explanatory.
+The GUI release (an executable build can be found in releases) is self-explanatory.
 
 To use the console release (ebaydl) the usage is
   <b> python ebaydl.py (url or txt) (download directory) </b>
